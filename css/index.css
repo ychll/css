@@ -1,0 +1,69 @@
+@charset "utf-8";
+height: 26px;border-bottom: 1px solid #D8D8D8;
+html{font-size: 12px ;}
+
+.top_page{line-height: 26px;}
+.top_page_l{line-height: 26px;}
+.top_page_r ul li{float:left;padding-right: 10px;line-height: 26px; }
+.top_page_r ul li s{width:14px;height: 12px;background: url(../images/0.jpg);display: inline-block;vertical-align: middle;}
+.top_page{width:970px;height:26px;margin: 0 auto;background-color: red；}
+.top{background-color: #F7F7F7;}
+.logo{width: 970px;height: 98px;margin: 0 auto;}
+.logo_l{width:200px;height:55px;background:url(../images/1.jpg);margin: 24px 0 19px 9px;text-indent: -1000em;}
+.logo_r{width:530px;height:42px;border: 1px solid #C9C9C9;margin-top:29px;}
+.logo_r_search{width: 418px;height: 28px;border:1px solid #C9C9C9;}
+.logo_r_btn{width: 99px;height: 30px;background-color: blue;color: white;}
+.logo_r_content{margin: 5px 5px 5px 4px;}
+.logo_r_search{background-color:#fff;color:#C9C9C9;}
+.nav{width:970px;margin:0 auto;height: 25px;border-bottom: 2px solid #0266A3}
+.nav li{float: left;padding:0 15px 0 15px;line-height: 25px;font-size: 14px;font-weight: bold;}
+.nav li a {color: #0266A3;}
+.nav   a:hover {
+	background-color: black；
+}
+.nav li:hover a{color:white;}
+.banner{width:970px;height:210px;margin:0 auto;margin-top:20px;}
+.subNav{width:200px;height:210px;margin-right: 11px;}
+.subNav .he{padding-bottom:10px;}
+.subNav h2{height: 30px;line-height: 30px;font-size: 14px;font-weight: bold;background-color:blue;color:white;padding-left: 20px;}
+.subNav  li{font-size:15px;padding-top:11px;}
+.subNav s{display: inline-block;width:15px;height: 13px;background: url(../images/1.jpg);vertical-align: middle;}
+.subNav li a{padding-left: 15px;}
+.subNav ul{background-color: #EBF0F6;}
+.ad{width:520px;height:210px;background-color: red;background: url(../images/1.jpg)}
+.message{width:230px;height:210px;}
+.message_top{height:95px;border:1px solid #DDDDDD;background-color: #F7fAF7;margin-bottom: 21px;}
+.message_bottom{height:92px;background-color: #F7fAF7;}
+.message_top s{display: inline-block;height: 40px;width:40px;background:url(../images/1.jpg);margin:20px 10px 0 10px;}
+.message_top .fw{font-weight: bold;padding:7px 0 0 18px;}
+.message_top .cheap{margin-top:25px;font-size: 12px;}
+.message_bottom .findmessage{font-size:14px;padding-top:11px;text-align: center}
+.message_bottom .tel{color:blue;padding-top:10px;text-align: center}
+.message_bottom .qq{border:1px solid blue;background-color:#F7fAF7;width:50px;font-size: 11px;margin-top:10px;margin-left:85px; }
+.center{width:970px;height:345px;margin:0 auto;margin-top: 12px;}
+.center h3{height: 25px;background-color: #ECF1F7;padding-left: 20px;line-height: 25px;font-size: 14px;font-weight: bold;}
+.content_l{width: 738px;height:345px;border:1px solid #D8D8D8;background: white}
+.content_r{width:228px;height: 345px;border:1px solid #EBF0F6;}
+.content_r h3{width:200px;height:20px;margin-left: 20px;
+	line-height: 20px;font-size: 14px;font-weight: bold;}
+.content_r ul{padding-top: 11px;}
+.content_r ol{font-size: 13px;line-height: :23px;padding :10px 0 0 0px}
+.l_top{height: 155px;width:712px;padding:17px 0 0 26px;}
+.l_top1{width: 351px;height: 146px;}
+.buy{width:99px;height: 143px;}
+.buy .ima{height:100px;border: 1px solid #CACACA;}
+.buy .ima s{display: inline-block;height:62px;width:90px;background: url(../images/1.jpg);margin:10px 4px 0 3px;}
+.explain{width:252px;height:143px;}
+.buy .btn{height:26px;width:99px;background: blue;color:white;margin-top:15px;}
+.hao{font-size: 16px;margin:10px 0 0 10px;}
+.zidong{color: gold;padding:13px 0 0 15px;}
+.price{padding:23px 0 0 11px;}
+.price span{color:red;margin-right: 20px}
+.price s{text-decoration: line-through;}
+.buyed{font-size: 16px;padding:10px 0 0 10px;}
+.buyed span{color:red;}
+.l_line{margin:0 4px 0 4px;border:1px solid  #ccc;}
+.link{width: 970px;height:90px;margin:0 auto;margin-top:11px;border-top:1px solid #DDD;border-bottom:3px solid blue;}
+.you{margin: 0 auto;font-size:12px;margin:50px 0 0 61px;color:#666;}
+.about{width：970px;height:30px;margin:0 auto;}
+.about p{margin-top:14px;text-align: center;}
